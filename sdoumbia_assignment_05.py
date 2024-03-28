@@ -80,7 +80,7 @@ def exercise05(n):
 
     # ------ Place code below here \/ \/ \/ ------
 
-    zeros = np.zeros(n,n)
+    zeros = np.zeros((n,n))
 
     # ------ Place code above here /\ /\ /\ ------
     return zeros
@@ -90,7 +90,7 @@ def exercise06(n):
 
     # ------ Place code below here \/ \/ \/ ------
 
-    ones = np.ones(n,n)
+    ones = np.ones((n,n))
 
     # ------ Place code above here /\ /\ /\ ------
     return ones
